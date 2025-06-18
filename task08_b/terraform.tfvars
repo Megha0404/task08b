@@ -39,7 +39,7 @@ kv_sku = "standard"
 container_app_revision_mode = "Single"
 container_cpu               = "0.25"
 container_memory            = "0.5Gi"
-container_name              = "shashwat-appcontainer1"
+container_name              = "megha-appcontainer1"
 acae_workload_profile_name  = "Consumption"
 acae_workload_profile_type  = "Consumption"
 
